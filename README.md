@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @001surya011
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...full stack developing, data analytics
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... Web Development.
+- 🌱 I’m currently learning ...Python Developer.
+- 💞️ I’m looking to Work on ... Websites And Python Applications.
 - 📫 How to reach me ...001surya011@gmail.com
 
 <!---
